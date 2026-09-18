@@ -302,7 +302,7 @@ If you found this project helpful, please consider giving it a **⭐ Star** on G
 **Anirudh Chauhan**
 
 - GitHub: https://github.com/Anirudh110607
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn:https://www.linkedin.com/in/anirudh-chauhan-7ba40b3a8?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
